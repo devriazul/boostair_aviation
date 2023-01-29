@@ -1,0 +1,4 @@
+[2023-01-29 10:54:23] production.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 60 seconds exceeded at D:\\laragon\\www\\BoostAviation\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:492)
+[stacktrace]
+#0 {main}
+"} 
